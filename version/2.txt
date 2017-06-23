@@ -1,0 +1,13 @@
+{
+    "result": [
+        {
+            "areas": "宝安区",
+            "name": "利达路凯成二路",
+            "gpsx": 113.847667,
+            "gpsy": 22.634861,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbee1"
+        }
+    ]
+}
