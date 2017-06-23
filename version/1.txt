@@ -1,0 +1,2479 @@
+{
+    "result": [
+        {
+            "areas": "宝安区",
+            "name": "利达路凯成二路",
+            "gpsx": 113.847667,
+            "gpsy": 22.634861,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbee1"
+        },
+        {
+            "areas": "宝安区",
+            "name": "利达路凯成二路",
+            "gpsx": 113.847667,
+            "gpsy": 22.634861,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbee2"
+        },
+        {
+            "areas": "宝安区",
+            "name": "利达路凯成二路",
+            "gpsx": 113.847667,
+            "gpsy": 22.634861,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbee3"
+        },
+        {
+            "areas": "宝安区",
+            "name": "宝安大道固戍一路",
+            "gpsx": 113.855598,
+            "gpsy": 22.602683,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbee4"
+        },
+        {
+            "areas": "宝安区",
+            "name": "裕安一路自由路",
+            "gpsx": 113.899562,
+            "gpsy": 22.571906,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbeb5"
+        },
+        {
+            "areas": "宝安区",
+            "name": "裕安一路自由路",
+            "gpsx": 113.899562,
+            "gpsy": 22.571906,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbeb6"
+        },
+        {
+            "areas": "宝安区",
+            "name": "裕安一路自由路",
+            "gpsx": 113.899562,
+            "gpsy": 22.571906,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbeb7"
+        },
+        {
+            "areas": "宝安区",
+            "name": "裕安一路自由路",
+            "gpsx": 113.899562,
+            "gpsy": 22.571906,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbeb8"
+        },
+        {
+            "areas": "宝安区",
+            "name": "翻身路甲岸路",
+            "gpsx": 113.906796,
+            "gpsy": 22.561787,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbeb9"
+        },
+        {
+            "areas": "宝安区",
+            "name": "翻身路甲岸路",
+            "gpsx": 113.906796,
+            "gpsy": 22.561787,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbeba"
+        },
+        {
+            "areas": "宝安区",
+            "name": "翻身路甲岸路",
+            "gpsx": 113.906796,
+            "gpsy": 22.561787,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbebb"
+        },
+        {
+            "areas": "宝安区",
+            "name": "翻身路甲岸路",
+            "gpsx": 113.906796,
+            "gpsy": 22.561787,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbebc"
+        },
+        {
+            "areas": "宝安区",
+            "name": "裕安一路翻身路",
+            "gpsx": 113.897595,
+            "gpsy": 22.570179,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbebd"
+        },
+        {
+            "areas": "宝安区",
+            "name": "裕安一路翻身路",
+            "gpsx": 113.897595,
+            "gpsy": 22.570179,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbebe"
+        },
+        {
+            "areas": "宝安区",
+            "name": "裕安一路翻身路",
+            "gpsx": 113.897595,
+            "gpsy": 22.570179,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbebf"
+        },
+        {
+            "areas": "宝安区",
+            "name": "宝民一路裕安二路",
+            "gpsx": 113.902252,
+            "gpsy": 22.574228,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbec0"
+        },
+        {
+            "areas": "宝安区",
+            "name": "宝民一路裕安二路",
+            "gpsx": 113.902252,
+            "gpsy": 22.574228,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbec1"
+        },
+        {
+            "areas": "宝安区",
+            "name": "翻身路上川路",
+            "gpsx": 113.893525,
+            "gpsy": 22.574182,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbec2"
+        },
+        {
+            "areas": "宝安区",
+            "name": "翻身路上川路",
+            "gpsx": 113.893525,
+            "gpsy": 22.574182,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbec3"
+        },
+        {
+            "areas": "宝安区",
+            "name": "翻身路上川路",
+            "gpsx": 113.893525,
+            "gpsy": 22.574182,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbec4"
+        },
+        {
+            "areas": "宝安区",
+            "name": "宝安大道裕安一路",
+            "gpsx": 113.894888,
+            "gpsy": 22.567989,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbec5"
+        },
+        {
+            "areas": "宝安区",
+            "name": "宝安大道裕安一路",
+            "gpsx": 113.894888,
+            "gpsy": 22.567989,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbec6"
+        },
+        {
+            "areas": "宝安区",
+            "name": "宝安大道裕安一路",
+            "gpsx": 113.894888,
+            "gpsy": 22.567989,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbec7"
+        },
+        {
+            "areas": "宝安区",
+            "name": "宝安大道裕安一路",
+            "gpsx": 113.894888,
+            "gpsy": 22.567989,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbec8"
+        },
+        {
+            "areas": "宝安区",
+            "name": "罗田路金科路",
+            "gpsx": 113.879412,
+            "gpsy": 22.559311,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbec9"
+        },
+        {
+            "areas": "宝安区",
+            "name": "罗田路金科路",
+            "gpsx": 113.879412,
+            "gpsy": 22.559311,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbeca"
+        },
+        {
+            "areas": "宝安区",
+            "name": "罗田路金科路",
+            "gpsx": 113.879412,
+            "gpsy": 22.559311,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbecb"
+        },
+        {
+            "areas": "宝安区",
+            "name": "罗田路金科路",
+            "gpsx": 113.879412,
+            "gpsy": 22.559311,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbecc"
+        },
+        {
+            "areas": "宝安区",
+            "name": "洪浪北二路留仙一路",
+            "gpsx": 113.925387,
+            "gpsy": 22.581608,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbecd"
+        },
+        {
+            "areas": "宝安区",
+            "name": "洪浪北二路留仙一路",
+            "gpsx": 113.925387,
+            "gpsy": 22.581608,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbece"
+        },
+        {
+            "areas": "宝安区",
+            "name": "洪浪北二路留仙一路",
+            "gpsx": 113.925387,
+            "gpsy": 22.581608,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbecf"
+        },
+        {
+            "areas": "宝安区",
+            "name": "帝堂路西沙路",
+            "gpsx": 113.797042,
+            "gpsy": 22.751631,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbed0"
+        },
+        {
+            "areas": "宝安区",
+            "name": "帝堂路西沙路",
+            "gpsx": 113.797042,
+            "gpsy": 22.751631,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbed1"
+        },
+        {
+            "areas": "宝安区",
+            "name": "帝堂路西沙路",
+            "gpsx": 113.797042,
+            "gpsy": 22.751631,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbed2"
+        },
+        {
+            "areas": "宝安区",
+            "name": "帝堂路西沙路",
+            "gpsx": 113.797042,
+            "gpsy": 22.751631,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbed3"
+        },
+        {
+            "areas": "宝安区",
+            "name": "建安二路流塘路",
+            "gpsx": 113.892703,
+            "gpsy": 22.587754,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbed4"
+        },
+        {
+            "areas": "宝安区",
+            "name": "建安二路流塘路",
+            "gpsx": 113.892703,
+            "gpsy": 22.587754,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbed5"
+        },
+        {
+            "areas": "宝安区",
+            "name": "宝民二路流塘路",
+            "gpsx": 113.890506,
+            "gpsy": 22.585985,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbed6"
+        },
+        {
+            "areas": "宝安区",
+            "name": "宝民二路流塘路",
+            "gpsx": 113.890506,
+            "gpsy": 22.585985,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbed7"
+        },
+        {
+            "areas": "宝安区",
+            "name": "宝民二路流塘路",
+            "gpsx": 113.890506,
+            "gpsy": 22.585985,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbed8"
+        },
+        {
+            "areas": "宝安区",
+            "name": "宝民二路流塘路",
+            "gpsx": 113.890506,
+            "gpsy": 22.585985,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbed9"
+        },
+        {
+            "areas": "宝安区",
+            "name": "西乡大道宝源路",
+            "gpsx": 113.868084,
+            "gpsy": 22.576798,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbeda"
+        },
+        {
+            "areas": "宝安区",
+            "name": "西乡大道宝源路",
+            "gpsx": 113.868084,
+            "gpsy": 22.576798,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbedb"
+        },
+        {
+            "areas": "宝安区",
+            "name": "西乡大道宝源路",
+            "gpsx": 113.868084,
+            "gpsy": 22.576798,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbedc"
+        },
+        {
+            "areas": "宝安区",
+            "name": "西乡大道宝源路",
+            "gpsx": 113.868084,
+            "gpsy": 22.576798,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbedd"
+        },
+        {
+            "areas": "宝安区",
+            "name": "西乡大道兴业路",
+            "gpsx": 113.864437,
+            "gpsy": 22.572927,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbede"
+        },
+        {
+            "areas": "宝安区",
+            "name": "西乡大道兴业路",
+            "gpsx": 113.864437,
+            "gpsy": 22.572927,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbedf"
+        },
+        {
+            "areas": "宝安区",
+            "name": "西乡大道兴业路",
+            "gpsx": 113.864437,
+            "gpsy": 22.572927,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbee0"
+        },
+        {
+            "areas": "宝安区",
+            "name": "宝安大道固戍一路",
+            "gpsx": 113.855598,
+            "gpsy": 22.602683,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbee5"
+        },
+        {
+            "areas": "宝安区",
+            "name": "洪浪北二路留仙三路",
+            "gpsx": 113.93288,
+            "gpsy": 22.587911,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbee6"
+        },
+        {
+            "areas": "宝安区",
+            "name": "洪浪北二路留仙三路",
+            "gpsx": 113.93288,
+            "gpsy": 22.587911,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbee7"
+        },
+        {
+            "areas": "宝安区",
+            "name": "洪浪北二路留仙三路",
+            "gpsx": 113.93288,
+            "gpsy": 22.587911,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbee8"
+        },
+        {
+            "areas": "南山区",
+            "name": "南海大道工业八路",
+            "gpsx": 113.928444,
+            "gpsy": 22.506107,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbee9"
+        },
+        {
+            "areas": "南山区",
+            "name": "南海大道工业八路",
+            "gpsx": 113.928444,
+            "gpsy": 22.506107,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbeea"
+        },
+        {
+            "areas": "南山区",
+            "name": "高新四路科技南路",
+            "gpsx": 113.956419,
+            "gpsy": 22.542044,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbeeb"
+        },
+        {
+            "areas": "南山区",
+            "name": "高新四路科技南路",
+            "gpsx": 113.956419,
+            "gpsy": 22.542044,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbeec"
+        },
+        {
+            "areas": "南山区",
+            "name": "高新四路科技南路",
+            "gpsx": 113.956419,
+            "gpsy": 22.542044,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbeed"
+        },
+        {
+            "areas": "南山区",
+            "name": "高新四路科技南路",
+            "gpsx": 113.956419,
+            "gpsy": 22.542044,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbeee"
+        },
+        {
+            "areas": "南山区",
+            "name": "沙河东路白石三路",
+            "gpsx": 113.970213,
+            "gpsy": 22.531069,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbeef"
+        },
+        {
+            "areas": "南山区",
+            "name": "沙河东路白石三路",
+            "gpsx": 113.970213,
+            "gpsy": 22.531069,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbef0"
+        },
+        {
+            "areas": "南山区",
+            "name": "沙河东路白石三路",
+            "gpsx": 113.970213,
+            "gpsy": 22.531069,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbef1"
+        },
+        {
+            "areas": "南山区",
+            "name": "沙河东路白石二路",
+            "gpsx": 113.970452,
+            "gpsy": 22.533952,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbef2"
+        },
+        {
+            "areas": "南山区",
+            "name": "沙河东路白石二路",
+            "gpsx": 113.970452,
+            "gpsy": 22.533952,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbef3"
+        },
+        {
+            "areas": "南山区",
+            "name": "沙河东路白石二路",
+            "gpsx": 113.970452,
+            "gpsy": 22.533952,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbef4"
+        },
+        {
+            "areas": "南山区",
+            "name": "沙河东路石洲北路",
+            "gpsx": 113.970472,
+            "gpsy": 22.541607,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbef5"
+        },
+        {
+            "areas": "南山区",
+            "name": "沙河东路石洲北路",
+            "gpsx": 113.970472,
+            "gpsy": 22.541607,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbef6"
+        },
+        {
+            "areas": "南山区",
+            "name": "沙河东路新中南路",
+            "gpsx": 113.971728,
+            "gpsy": 22.549996,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbef7"
+        },
+        {
+            "areas": "南山区",
+            "name": "沙河东路新中南路",
+            "gpsx": 113.971728,
+            "gpsy": 22.549996,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbef8"
+        },
+        {
+            "areas": "南山区",
+            "name": "后海大道登良路",
+            "gpsx": 113.939003,
+            "gpsy": 22.515671,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbef9"
+        },
+        {
+            "areas": "南山区",
+            "name": "后海大道登良路",
+            "gpsx": 113.939003,
+            "gpsy": 22.515671,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbefa"
+        },
+        {
+            "areas": "南山区",
+            "name": "后海大道登良路",
+            "gpsx": 113.939003,
+            "gpsy": 22.515671,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbefb"
+        },
+        {
+            "areas": "南山区",
+            "name": "南海大道工业七路",
+            "gpsx": 113.92708,
+            "gpsy": 22.502645,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbefc"
+        },
+        {
+            "areas": "南山区",
+            "name": "南海大道工业七路",
+            "gpsx": 113.92708,
+            "gpsy": 22.502645,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbefd"
+        },
+        {
+            "areas": "南山区",
+            "name": "南海大道工业七路",
+            "gpsx": 113.92708,
+            "gpsy": 22.502645,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbefe"
+        },
+        {
+            "areas": "南山区",
+            "name": "南海大道工业七路",
+            "gpsx": 113.92708,
+            "gpsy": 22.502645,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbeff"
+        },
+        {
+            "areas": "南山区",
+            "name": "后海大道海德一道路",
+            "gpsx": 113.939144,
+            "gpsy": 22.52231,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf00"
+        },
+        {
+            "areas": "南山区",
+            "name": "后海大道海德一道路",
+            "gpsx": 113.939144,
+            "gpsy": 22.52231,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbf01"
+        },
+        {
+            "areas": "南山区",
+            "name": "后海大道海德一道路",
+            "gpsx": 113.939144,
+            "gpsy": 22.52231,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf02"
+        },
+        {
+            "areas": "南山区",
+            "name": "后海大道海德一道路",
+            "gpsx": 113.939144,
+            "gpsy": 22.52231,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf03"
+        },
+        {
+            "areas": "南山区",
+            "name": "侨香路侨城东路",
+            "gpsx": 114.002802,
+            "gpsy": 22.547342,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbf04"
+        },
+        {
+            "areas": "南山区",
+            "name": "侨香路侨城东路",
+            "gpsx": 114.002802,
+            "gpsy": 22.547342,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf05"
+        },
+        {
+            "areas": "南山区",
+            "name": "南海大道桃园路",
+            "gpsx": 113.938412,
+            "gpsy": 22.538125,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf06"
+        },
+        {
+            "areas": "南山区",
+            "name": "南海大道桃园路",
+            "gpsx": 113.938412,
+            "gpsy": 22.538125,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf07"
+        },
+        {
+            "areas": "南山区",
+            "name": "南海大道桃园路",
+            "gpsx": 113.938412,
+            "gpsy": 22.538125,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf08"
+        },
+        {
+            "areas": "南山区",
+            "name": "平山一路平山工业园北路",
+            "gpsx": 113.976291,
+            "gpsy": 22.590725,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf09"
+        },
+        {
+            "areas": "南山区",
+            "name": "平山一路平山工业园北路",
+            "gpsx": 113.976291,
+            "gpsy": 22.590725,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf0a"
+        },
+        {
+            "areas": "南山区",
+            "name": "东滨路后海滨路",
+            "gpsx": 113.944307,
+            "gpsy": 22.510669,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf0b"
+        },
+        {
+            "areas": "南山区",
+            "name": "东滨路后海滨路",
+            "gpsx": 113.944307,
+            "gpsy": 22.510669,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbf0c"
+        },
+        {
+            "areas": "南山区",
+            "name": "东滨路后海滨路",
+            "gpsx": 113.944307,
+            "gpsy": 22.510669,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf0d"
+        },
+        {
+            "areas": "南山区",
+            "name": "东滨路后海滨路",
+            "gpsx": 113.944307,
+            "gpsy": 22.510669,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf0e"
+        },
+        {
+            "areas": "南山区",
+            "name": "东滨路海月路",
+            "gpsx": 113.941464,
+            "gpsy": 22.510535,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbf0f"
+        },
+        {
+            "areas": "南山区",
+            "name": "东滨路海月路",
+            "gpsx": 113.941464,
+            "gpsy": 22.510535,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf10"
+        },
+        {
+            "areas": "南山区",
+            "name": "东滨路后海大道路",
+            "gpsx": 113.938654,
+            "gpsy": 22.510624,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf11"
+        },
+        {
+            "areas": "南山区",
+            "name": "东滨路后海大道路",
+            "gpsx": 113.938654,
+            "gpsy": 22.510624,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbf12"
+        },
+        {
+            "areas": "南山区",
+            "name": "东滨路后海大道路",
+            "gpsx": 113.938654,
+            "gpsy": 22.510624,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf13"
+        },
+        {
+            "areas": "南山区",
+            "name": "东滨路爱榕路",
+            "gpsx": 113.93506,
+            "gpsy": 22.510528,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf14"
+        },
+        {
+            "areas": "南山区",
+            "name": "东滨路爱榕路",
+            "gpsx": 113.93506,
+            "gpsy": 22.510528,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf15"
+        },
+        {
+            "areas": "南山区",
+            "name": "东滨路四海路",
+            "gpsx": 113.933075,
+            "gpsy": 22.510528,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbf16"
+        },
+        {
+            "areas": "南山区",
+            "name": "东滨路四海路",
+            "gpsx": 113.933075,
+            "gpsy": 22.510528,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf17"
+        },
+        {
+            "areas": "南山区",
+            "name": "白石四路深湾一路",
+            "gpsx": 113.973702,
+            "gpsy": 22.528928,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf18"
+        },
+        {
+            "areas": "南山区",
+            "name": "白石四路深湾一路",
+            "gpsx": 113.973702,
+            "gpsy": 22.528928,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf19"
+        },
+        {
+            "areas": "南山区",
+            "name": "前海路铲湾北路",
+            "gpsx": 113.904947,
+            "gpsy": 22.511217,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf1a"
+        },
+        {
+            "areas": "南山区",
+            "name": "前海路铲湾北路",
+            "gpsx": 113.904947,
+            "gpsy": 22.511217,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf1b"
+        },
+        {
+            "areas": "南山区",
+            "name": "前海路铲湾北路",
+            "gpsx": 113.904947,
+            "gpsy": 22.511217,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf1c"
+        },
+        {
+            "areas": "南山区",
+            "name": "海德一路文心二路",
+            "gpsx": 113.936604,
+            "gpsy": 22.522175,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf1d"
+        },
+        {
+            "areas": "南山区",
+            "name": "海德一路文心二路",
+            "gpsx": 113.936604,
+            "gpsy": 22.522175,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbf1e"
+        },
+        {
+            "areas": "南山区",
+            "name": "海德一路文心二路",
+            "gpsx": 113.936604,
+            "gpsy": 22.522175,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf1f"
+        },
+        {
+            "areas": "南山区",
+            "name": "海德一路文心二路",
+            "gpsx": 113.936604,
+            "gpsy": 22.522175,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf20"
+        },
+        {
+            "areas": "南山区",
+            "name": "太子路工业二路",
+            "gpsx": 113.920383,
+            "gpsy": 22.488593,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf21"
+        },
+        {
+            "areas": "南山区",
+            "name": "侨香路深云路",
+            "gpsx": 113.991255,
+            "gpsy": 22.55344,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbf22"
+        },
+        {
+            "areas": "南山区",
+            "name": "侨香路深云路",
+            "gpsx": 113.991255,
+            "gpsy": 22.55344,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf23"
+        },
+        {
+            "areas": "南山区",
+            "name": "沙河西路高新南十道路",
+            "gpsx": 113.961176,
+            "gpsy": 22.532864,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf24"
+        },
+        {
+            "areas": "南山区",
+            "name": "沙河西路高新南四道路",
+            "gpsx": 113.961176,
+            "gpsy": 22.532864,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf25"
+        },
+        {
+            "areas": "南山区",
+            "name": "南海大道工业五路",
+            "gpsx": 113.923569,
+            "gpsy": 22.497272,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf26"
+        },
+        {
+            "areas": "南山区",
+            "name": "南海大道工业五路",
+            "gpsx": 113.923569,
+            "gpsy": 22.497272,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf27"
+        },
+        {
+            "areas": "南山区",
+            "name": "招商路公园路",
+            "gpsx": 113.931476,
+            "gpsy": 22.496006,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf28"
+        },
+        {
+            "areas": "南山区",
+            "name": "招商路公园路",
+            "gpsx": 113.931476,
+            "gpsy": 22.496006,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf29"
+        },
+        {
+            "areas": "南山区",
+            "name": "招商路公园路",
+            "gpsx": 113.931476,
+            "gpsy": 22.496006,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf2a"
+        },
+        {
+            "areas": "南山区",
+            "name": "高新南环高新南十一道路",
+            "gpsx": 113.954446,
+            "gpsy": 22.530002,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf2b"
+        },
+        {
+            "areas": "南山区",
+            "name": "高新南环高新南十一道路",
+            "gpsx": 113.954446,
+            "gpsy": 22.530002,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbf2c"
+        },
+        {
+            "areas": "南山区",
+            "name": "后海滨路海德三道路",
+            "gpsx": 113.947411,
+            "gpsy": 22.524477,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf2d"
+        },
+        {
+            "areas": "南山区",
+            "name": "后海滨路海德三道路",
+            "gpsx": 113.947411,
+            "gpsy": 22.524477,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf2e"
+        },
+        {
+            "areas": "南山区",
+            "name": "后海滨路海德三道路",
+            "gpsx": 113.947411,
+            "gpsy": 22.524477,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf2f"
+        },
+        {
+            "areas": "南山区",
+            "name": "南光路南头街路",
+            "gpsx": 113.93378,
+            "gpsy": 22.541625,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf30"
+        },
+        {
+            "areas": "南山区",
+            "name": "南光路南头街路",
+            "gpsx": 113.93378,
+            "gpsy": 22.541625,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf31"
+        },
+        {
+            "areas": "南山区",
+            "name": "同乐路二号路",
+            "gpsx": 113.94051,
+            "gpsy": 22.570223,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbf32"
+        },
+        {
+            "areas": "南山区",
+            "name": "同乐路二号路",
+            "gpsx": 113.94051,
+            "gpsy": 22.570223,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf33"
+        },
+        {
+            "areas": "南山区",
+            "name": "同乐路二号路",
+            "gpsx": 113.94051,
+            "gpsy": 22.570223,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf34"
+        },
+        {
+            "areas": "南山区",
+            "name": "留仙大道同乐路",
+            "gpsx": 113.936387,
+            "gpsy": 22.587146,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbf35"
+        },
+        {
+            "areas": "南山区",
+            "name": "留仙大道同乐路",
+            "gpsx": 113.936387,
+            "gpsy": 22.587146,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf36"
+        },
+        {
+            "areas": "南山区",
+            "name": "留仙大道同乐路",
+            "gpsx": 113.936387,
+            "gpsy": 22.587146,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf37"
+        },
+        {
+            "areas": "南山区",
+            "name": "同发路官龙路",
+            "gpsx": 113.950702,
+            "gpsy": 22.591888,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf38"
+        },
+        {
+            "areas": "南山区",
+            "name": "同发路官龙路",
+            "gpsx": 113.950702,
+            "gpsy": 22.591888,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf39"
+        },
+        {
+            "areas": "南山区",
+            "name": "科苑北路朗山路",
+            "gpsx": 113.952084,
+            "gpsy": 22.562604,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf3a"
+        },
+        {
+            "areas": "南山区",
+            "name": "科苑北路朗山路",
+            "gpsx": 113.952084,
+            "gpsy": 22.562604,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf3b"
+        },
+        {
+            "areas": "南山区",
+            "name": "茶光路乾丰二路",
+            "gpsx": 113.948181,
+            "gpsy": 22.574069,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf3c"
+        },
+        {
+            "areas": "南山区",
+            "name": "茶光路乾丰二路",
+            "gpsx": 113.948181,
+            "gpsy": 22.574069,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbf3d"
+        },
+        {
+            "areas": "南山区",
+            "name": "茶光路乾丰二路",
+            "gpsx": 113.948181,
+            "gpsy": 22.574069,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf3e"
+        },
+        {
+            "areas": "南山区",
+            "name": "茶光路石鼓路",
+            "gpsx": 113.954972,
+            "gpsy": 22.574039,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbf3f"
+        },
+        {
+            "areas": "南山区",
+            "name": "茶光路石鼓路",
+            "gpsx": 113.954972,
+            "gpsy": 22.574039,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf40"
+        },
+        {
+            "areas": "南山区",
+            "name": "茶光路石鼓路",
+            "gpsx": 113.954972,
+            "gpsy": 22.574039,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf41"
+        },
+        {
+            "areas": "南山区",
+            "name": "后海滨路创业路",
+            "gpsx": 113.945342,
+            "gpsy": 22.518977,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf42"
+        },
+        {
+            "areas": "南山区",
+            "name": "后海滨路创业路",
+            "gpsx": 113.945342,
+            "gpsy": 22.518977,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbf43"
+        },
+        {
+            "areas": "南山区",
+            "name": "后海滨路创业路",
+            "gpsx": 113.945342,
+            "gpsy": 22.518977,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf44"
+        },
+        {
+            "areas": "南山区",
+            "name": "后海滨路创业路",
+            "gpsx": 113.945342,
+            "gpsy": 22.518977,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf45"
+        },
+        {
+            "areas": "南山区",
+            "name": "后海滨路海德一道路",
+            "gpsx": 113.945955,
+            "gpsy": 22.520788,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbf46"
+        },
+        {
+            "areas": "南山区",
+            "name": "后海滨路海德一道路",
+            "gpsx": 113.945955,
+            "gpsy": 22.520788,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf47"
+        },
+        {
+            "areas": "南山区",
+            "name": "后海滨路海德一道路",
+            "gpsx": 113.945955,
+            "gpsy": 22.520788,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf48"
+        },
+        {
+            "areas": "南山区",
+            "name": "后海滨路海德一道路",
+            "gpsx": 113.945955,
+            "gpsy": 22.520788,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf49"
+        },
+        {
+            "areas": "南山区",
+            "name": "石鼓路打石一路",
+            "gpsx": 113.954863,
+            "gpsy": 22.577823,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf4a"
+        },
+        {
+            "areas": "南山区",
+            "name": "石鼓路打石一路",
+            "gpsx": 113.954863,
+            "gpsy": 22.577823,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf4b"
+        },
+        {
+            "areas": "南山区",
+            "name": "北环大道科苑北路",
+            "gpsx": 113.951914,
+            "gpsy": 22.557966,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf4c"
+        },
+        {
+            "areas": "南山区",
+            "name": "北环大道科苑北路",
+            "gpsx": 113.951914,
+            "gpsy": 22.557966,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf4d"
+        },
+        {
+            "areas": "南山区",
+            "name": "北环大道科苑北路",
+            "gpsx": 113.951914,
+            "gpsy": 22.557966,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf4e"
+        },
+        {
+            "areas": "南山区",
+            "name": "科发路科苑北路",
+            "gpsx": 113.95203,
+            "gpsy": 22.548839,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf4f"
+        },
+        {
+            "areas": "南山区",
+            "name": "科发路科苑北路",
+            "gpsx": 113.95203,
+            "gpsy": 22.548839,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbf50"
+        },
+        {
+            "areas": "南山区",
+            "name": "茶光路沙河西路",
+            "gpsx": 113.961265,
+            "gpsy": 22.574245,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf51"
+        },
+        {
+            "areas": "宝安区",
+            "name": "宝石路上川路",
+            "gpsx": 113.926995,
+            "gpsy": 22.593804,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf52"
+        },
+        {
+            "areas": "宝安区",
+            "name": "宝石路上川路",
+            "gpsx": 113.926995,
+            "gpsy": 22.593804,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf53"
+        },
+        {
+            "areas": "宝安区",
+            "name": "宝石路上川路",
+            "gpsx": 113.926995,
+            "gpsy": 22.593804,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf54"
+        },
+        {
+            "areas": "宝安区",
+            "name": "大宝路创业二路",
+            "gpsx": 113.920566,
+            "gpsy": 22.583532,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf55"
+        },
+        {
+            "areas": "宝安区",
+            "name": "大宝路创业二路",
+            "gpsx": 113.920566,
+            "gpsy": 22.583532,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf56"
+        },
+        {
+            "areas": "宝安区",
+            "name": "大宝路创业二路",
+            "gpsx": 113.920566,
+            "gpsy": 22.583532,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf57"
+        },
+        {
+            "areas": "宝安区",
+            "name": "公园路创业二路",
+            "gpsx": 113.914331,
+            "gpsy": 22.578223,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbf58"
+        },
+        {
+            "areas": "宝安区",
+            "name": "公园路创业二路",
+            "gpsx": 113.914331,
+            "gpsy": 22.578223,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf59"
+        },
+        {
+            "areas": "宝安区",
+            "name": "公园路创业二路",
+            "gpsx": 113.914331,
+            "gpsy": 22.578223,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf5a"
+        },
+        {
+            "areas": "宝安区",
+            "name": "公园路创业二路",
+            "gpsx": 113.914331,
+            "gpsy": 22.578223,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf5b"
+        },
+        {
+            "areas": "宝安区",
+            "name": "留仙一路创业二路",
+            "gpsx": 113.925536,
+            "gpsy": 22.587642,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbf5c"
+        },
+        {
+            "areas": "宝安区",
+            "name": "留仙一路创业二路",
+            "gpsx": 113.925536,
+            "gpsy": 22.587642,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf5d"
+        },
+        {
+            "areas": "宝安区",
+            "name": "留仙一路创业二路",
+            "gpsx": 113.925536,
+            "gpsy": 22.587642,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf5e"
+        },
+        {
+            "areas": "宝安区",
+            "name": "留仙一路创业二路",
+            "gpsx": 113.925536,
+            "gpsy": 22.587642,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf5f"
+        },
+        {
+            "areas": "宝安区",
+            "name": "大宝路上川路",
+            "gpsx": 113.914944,
+            "gpsy": 22.589198,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbf60"
+        },
+        {
+            "areas": "宝安区",
+            "name": "大宝路上川路",
+            "gpsx": 113.914944,
+            "gpsy": 22.589198,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf61"
+        },
+        {
+            "areas": "宝安区",
+            "name": "大宝路上川路",
+            "gpsx": 113.914944,
+            "gpsy": 22.589198,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf62"
+        },
+        {
+            "areas": "宝安区",
+            "name": "新安三路创业二路",
+            "gpsx": 113.917238,
+            "gpsy": 22.580603,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbf63"
+        },
+        {
+            "areas": "宝安区",
+            "name": "新安三路创业二路",
+            "gpsx": 113.917238,
+            "gpsy": 22.580603,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf64"
+        },
+        {
+            "areas": "宝安区",
+            "name": "新安三路创业二路",
+            "gpsx": 113.917238,
+            "gpsy": 22.580603,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf65"
+        },
+        {
+            "areas": "宝安区",
+            "name": "新安三路创业二路",
+            "gpsx": 113.917238,
+            "gpsy": 22.580603,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf66"
+        },
+        {
+            "areas": "宝安区",
+            "name": "宝安大道新安六路",
+            "gpsx": 113.88667,
+            "gpsy": 22.575171,
+            "level": 1,
+            "direction": "西",
+            "_id": "58bf629e426f42c26ffcbf67"
+        },
+        {
+            "areas": "宝安区",
+            "name": "宝安大道新安六路",
+            "gpsx": 113.88667,
+            "gpsy": 22.575171,
+            "level": 1,
+            "direction": "东",
+            "_id": "58bf629e426f42c26ffcbf68"
+        },
+        {
+            "areas": "宝安区",
+            "name": "宝安大道新安六路",
+            "gpsx": 113.88667,
+            "gpsy": 22.575171,
+            "level": 1,
+            "direction": "北",
+            "_id": "58bf629e426f42c26ffcbf69"
+        },
+        {
+            "areas": "宝安区",
+            "name": "宝安大道新安六路",
+            "gpsx": 113.88667,
+            "gpsy": 22.575171,
+            "level": 1,
+            "direction": "南",
+            "_id": "58bf629e426f42c26ffcbf6a"
+        },
+        {
+            "areas": "南山区",
+            "name": "北环大道沙河东立交西行",
+            "gpsx": 113.97327,
+            "gpsy": 22.559719,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf6b"
+        },
+        {
+            "areas": "南山区",
+            "name": "北环大道沙河西立交西行",
+            "gpsx": 113.964359,
+            "gpsy": 22.559034,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf6c"
+        },
+        {
+            "areas": "南山区",
+            "name": "北环大道深南立交西行",
+            "gpsx": 113.919446,
+            "gpsy": 22.554065,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf6d"
+        },
+        {
+            "areas": "南山区",
+            "name": "北环大道深云立交东行",
+            "gpsx": 113.994587,
+            "gpsy": 22.561742,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf6e"
+        },
+        {
+            "areas": "南山区",
+            "name": "滨海大道海滨立交西往东",
+            "gpsx": 113.948198,
+            "gpsy": 22.527223,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf6f"
+        },
+        {
+            "areas": "南山区",
+            "name": "滨海大道后海立交西行",
+            "gpsx": 113.938672,
+            "gpsy": 22.515515,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf70"
+        },
+        {
+            "areas": "南山区",
+            "name": "滨海大道侨城东立交西行",
+            "gpsx": 114.005394,
+            "gpsy": 22.530788,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf71"
+        },
+        {
+            "areas": "南山区",
+            "name": "滨海大道沙河东立交西行",
+            "gpsx": 113.969889,
+            "gpsy": 22.525886,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf72"
+        },
+        {
+            "areas": "南山区",
+            "name": "滨海大道沙河西路出口西行",
+            "gpsx": 113.960502,
+            "gpsy": 22.526779,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf73"
+        },
+        {
+            "areas": "南山区",
+            "name": "茶光路同乐路口东侧西行",
+            "gpsx": 113.939949,
+            "gpsy": 22.574338,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf74"
+        },
+        {
+            "areas": "南山区",
+            "name": "后海大道海月人行天桥北行",
+            "gpsx": 113.93904,
+            "gpsy": 22.508231,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf75"
+        },
+        {
+            "areas": "南山区",
+            "name": "龙珠大道北环大道西侧西行",
+            "gpsx": 113.998865,
+            "gpsy": 22.562602,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf76"
+        },
+        {
+            "areas": "南山区",
+            "name": "南海大道东滨路沃尔玛人行天桥北行",
+            "gpsx": 113.929713,
+            "gpsy": 22.508815,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf77"
+        },
+        {
+            "areas": "南山区",
+            "name": "南海大道学府人行天桥南行",
+            "gpsx": 113.935808,
+            "gpsy": 22.532783,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf78"
+        },
+        {
+            "areas": "南山区",
+            "name": "深南大道南海立交西行",
+            "gpsx": 113.938451,
+            "gpsy": 22.545441,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf79"
+        },
+        {
+            "areas": "南山区",
+            "name": "深南大道沙河西立交西行",
+            "gpsx": 113.965698,
+            "gpsy": 22.546094,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf7a"
+        },
+        {
+            "areas": "南山区",
+            "name": "同安路荔山检查站出",
+            "gpsx": 113.926909,
+            "gpsy": 22.563003,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf7b"
+        },
+        {
+            "areas": "南山区",
+            "name": "月亮湾大道桂庙路口南侧北行",
+            "gpsx": 113.916373,
+            "gpsy": 22.52935,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf7c"
+        },
+        {
+            "areas": "南山区",
+            "name": "月亮湾大道深南立交北行",
+            "gpsx": 113.905945,
+            "gpsy": 22.515577,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf7d"
+        },
+        {
+            "areas": "宝安区",
+            "name": "宝安大道新城联检站北侧南行",
+            "gpsx": 113.909185,
+            "gpsy": 22.553611,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf7e"
+        },
+        {
+            "areas": "宝安区",
+            "name": "宝安大道甲岸路口南往北",
+            "gpsx": 113.903697,
+            "gpsy": 22.559593,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf7f"
+        },
+        {
+            "areas": "宝安区",
+            "name": "107国道（广深公路）南头检查站北往南",
+            "gpsx": 113.916435,
+            "gpsy": 22.556645,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf80"
+        },
+        {
+            "areas": "宝安区",
+            "name": "107国道（广深公路）创业立交桥南往北",
+            "gpsx": 113.903481,
+            "gpsy": 22.570136,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf81"
+        },
+        {
+            "areas": "宝安区",
+            "name": "前进一路龙井二路段北往南",
+            "gpsx": 113.920203,
+            "gpsy": 22.565252,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf82"
+        },
+        {
+            "areas": "宝安区",
+            "name": "新安六路海滨大道路口北侧南行",
+            "gpsx": 113.879678,
+            "gpsy": 22.568241,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf83"
+        },
+        {
+            "areas": "宝安区",
+            "name": "前进路湖滨路口南侧南行",
+            "gpsx": 113.92208,
+            "gpsy": 22.56336,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf84"
+        },
+        {
+            "areas": "宝安区",
+            "name": "大宝路广深高速入口匝道",
+            "gpsx": 113.929863,
+            "gpsy": 22.575052,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf85"
+        },
+        {
+            "areas": "宝安区",
+            "name": "广深公路(107国道)流塘天桥南行",
+            "gpsx": 113.888161,
+            "gpsy": 22.585623,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf86"
+        },
+        {
+            "areas": "罗湖区",
+            "name": "保洁路清水河检查站出",
+            "gpsx": 114.110961,
+            "gpsy": 22.583616,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf87"
+        },
+        {
+            "areas": "罗湖区",
+            "name": "布吉路草埔立交北行",
+            "gpsx": 114.123342,
+            "gpsy": 22.590301,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf88"
+        },
+        {
+            "areas": "罗湖区",
+            "name": "东门路湖贝路口北行",
+            "gpsx": 114.128262,
+            "gpsy": 22.551992,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf89"
+        },
+        {
+            "areas": "罗湖区",
+            "name": "东门路晒布路口南行",
+            "gpsx": 114.12863,
+            "gpsy": 22.554875,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf8a"
+        },
+        {
+            "areas": "罗湖区",
+            "name": "红岗路清水河检查站南往北（高清）",
+            "gpsx": 114.112272,
+            "gpsy": 22.584182,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf8b"
+        },
+        {
+            "areas": "罗湖区",
+            "name": "临平一路南行",
+            "gpsx": 114.114105,
+            "gpsy": 22.591177,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf8c"
+        },
+        {
+            "areas": "罗湖区",
+            "name": "罗沙路辅道仙湖立交西行",
+            "gpsx": 114.169061,
+            "gpsy": 22.563827,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf8d"
+        },
+        {
+            "areas": "罗湖区",
+            "name": "罗沙路罗芳人行天桥西行",
+            "gpsx": 114.169061,
+            "gpsy": 22.563827,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf8e"
+        },
+        {
+            "areas": "罗湖区",
+            "name": "罗沙路长岭人行天桥东行",
+            "gpsx": 114.19046,
+            "gpsy": 22.562024,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf8f"
+        },
+        {
+            "areas": "罗湖区",
+            "name": "泥岗路红岗东人行天桥西行",
+            "gpsx": 114.114373,
+            "gpsy": 22.575986,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf90"
+        },
+        {
+            "areas": "罗湖区",
+            "name": "泥岗路金豪人行天桥东行",
+            "gpsx": 114.121259,
+            "gpsy": 22.580007,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf91"
+        },
+        {
+            "areas": "罗湖区",
+            "name": "沙湾路沙湾检查站出",
+            "gpsx": 114.150575,
+            "gpsy": 22.578491,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf92"
+        },
+        {
+            "areas": "罗湖区",
+            "name": "深南东路蔡屋围人行天桥东行",
+            "gpsx": 114.114987,
+            "gpsy": 22.547815,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf93"
+        },
+        {
+            "areas": "罗湖区",
+            "name": "笋岗东路松园北人行天桥西行",
+            "gpsx": 114.113469,
+            "gpsy": 22.562225,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf94"
+        },
+        {
+            "areas": "罗湖区",
+            "name": "延芳路罗沙边防通道桥南行",
+            "gpsx": 114.162073,
+            "gpsy": 22.5594,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf95"
+        },
+        {
+            "areas": "罗湖区",
+            "name": "沿河北路罗芳立交北侧北往南",
+            "gpsx": 114.151043,
+            "gpsy": 22.559306,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf96"
+        },
+        {
+            "areas": "罗湖区",
+            "name": "沿河路北斗人行天桥东行",
+            "gpsx": 114.144897,
+            "gpsy": 22.549766,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf97"
+        },
+        {
+            "areas": "福田区",
+            "name": "北环大道彩田立交东行",
+            "gpsx": 114.073956,
+            "gpsy": 22.571192,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf98"
+        },
+        {
+            "areas": "福田区",
+            "name": "北环大道皇岗路口西行",
+            "gpsx": 114.079012,
+            "gpsy": 22.571948,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf99"
+        },
+        {
+            "areas": "福田区",
+            "name": "北环大道侨香村人行天桥西行",
+            "gpsx": 114.027364,
+            "gpsy": 22.563484,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf9a"
+        },
+        {
+            "areas": "福田区",
+            "name": "北环大道新洲立交西行",
+            "gpsx": 114.051855,
+            "gpsy": 22.566436,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf9b"
+        },
+        {
+            "areas": "福田区",
+            "name": "滨河大道爱华南人行天桥东行",
+            "gpsx": 114.097655,
+            "gpsy": 22.540779,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf9c"
+        },
+        {
+            "areas": "福田区",
+            "name": "滨河大道彩田立交东行",
+            "gpsx": 114.074566,
+            "gpsy": 22.534659,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf9d"
+        },
+        {
+            "areas": "福田区",
+            "name": "滨河大道福滨人行天桥西行",
+            "gpsx": 114.084252,
+            "gpsy": 22.53494,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf9e"
+        },
+        {
+            "areas": "福田区",
+            "name": "滨河大道广深高速桥东行",
+            "gpsx": 114.026073,
+            "gpsy": 22.534243,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbf9f"
+        },
+        {
+            "areas": "福田区",
+            "name": "滨河大道红岭南人行天桥东行",
+            "gpsx": 114.110915,
+            "gpsy": 22.541763,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfa0"
+        },
+        {
+            "areas": "福田区",
+            "name": "滨河大道香蜜湖立交东行",
+            "gpsx": 114.037169,
+            "gpsy": 22.534634,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfa1"
+        },
+        {
+            "areas": "福田区",
+            "name": "彩田路皇岗立交北侧北行",
+            "gpsx": 114.071798,
+            "gpsy": 22.581097,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfa2"
+        },
+        {
+            "areas": "福田区",
+            "name": "彩田路新彩隧道管理中心人行天桥北行",
+            "gpsx": 114.06551,
+            "gpsy": 22.581531,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfa3"
+        },
+        {
+            "areas": "福田区",
+            "name": "彩田路新彩隧道南行出口",
+            "gpsx": 114.070307,
+            "gpsy": 22.583154,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfa4"
+        },
+        {
+            "areas": "福田区",
+            "name": "彩田路新彩隧道南行入口",
+            "gpsx": 114.070738,
+            "gpsy": 22.58327,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfa5"
+        },
+        {
+            "areas": "福田区",
+            "name": "福龙路横龙山隧道北行南坪出口",
+            "gpsx": 114.024046,
+            "gpsy": 22.593341,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfa6"
+        },
+        {
+            "areas": "福田区",
+            "name": "福龙路横龙山隧道出口南行",
+            "gpsx": 114.022771,
+            "gpsy": 22.572468,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfa7"
+        },
+        {
+            "areas": "福田区",
+            "name": "福强路福强人行天桥西行",
+            "gpsx": 114.059808,
+            "gpsy": 22.521436,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfa8"
+        },
+        {
+            "areas": "福田区",
+            "name": "福荣路新洲路口东侧东行",
+            "gpsx": 114.049981,
+            "gpsy": 22.518799,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfa9"
+        },
+        {
+            "areas": "福田区",
+            "name": "福田口岸裕亨路海悦华城南侧东行（高清）",
+            "gpsx": 114.075974,
+            "gpsy": 22.52195,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfaa"
+        },
+        {
+            "areas": "福田区",
+            "name": "国花路桂花路段南行",
+            "gpsx": 114.074953,
+            "gpsy": 22.522195,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfab"
+        },
+        {
+            "areas": "福田区",
+            "name": "红荔路福莲人行天桥东行",
+            "gpsx": 114.077388,
+            "gpsy": 22.554178,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfac"
+        },
+        {
+            "areas": "福田区",
+            "name": "红荔路皇岗路口西行",
+            "gpsx": 114.079611,
+            "gpsy": 22.554163,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfad"
+        },
+        {
+            "areas": "福田区",
+            "name": "红荔路香蜜湖天桥东行",
+            "gpsx": 114.038572,
+            "gpsy": 22.549076,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfae"
+        },
+        {
+            "areas": "福田区",
+            "name": "华强南路赤尾村口南行",
+            "gpsx": 114.093744,
+            "gpsy": 22.537137,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfaf"
+        },
+        {
+            "areas": "福田区",
+            "name": "皇岗口岸出境通道",
+            "gpsx": 114.079545,
+            "gpsy": 22.530218,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfb0"
+        },
+        {
+            "areas": "福田区",
+            "name": "皇岗口岸的士候车道东行",
+            "gpsx": 114.08081,
+            "gpsy": 22.525938,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfb1"
+        },
+        {
+            "areas": "福田区",
+            "name": "梅观公路彩田路口北行",
+            "gpsx": 114.07177,
+            "gpsy": 22.581061,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfb2"
+        },
+        {
+            "areas": "福田区",
+            "name": "梅观公路南坪立交南侧南行",
+            "gpsx": 114.059751,
+            "gpsy": 22.595859,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfb3"
+        },
+        {
+            "areas": "福田区",
+            "name": "南坪快速路1.3公里西行",
+            "gpsx": 114.0507753751,
+            "gpsy": 22.5965452359,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfb4"
+        },
+        {
+            "areas": "福田区",
+            "name": "南坪快速路5.9公里西行",
+            "gpsx": 114.006255,
+            "gpsy": 22.592141,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfb5"
+        },
+        {
+            "areas": "福田区",
+            "name": "上步中路百花人行天桥南行",
+            "gpsx": 114.102644,
+            "gpsy": 22.559338,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfb6"
+        },
+        {
+            "areas": "福田区",
+            "name": "上步中路同德人行天桥北行",
+            "gpsx": 114.102747,
+            "gpsy": 22.552321,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfb7"
+        },
+        {
+            "areas": "福田区",
+            "name": "上步中路园西天桥南行",
+            "gpsx": 114.103213,
+            "gpsy": 22.546903,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfb8"
+        },
+        {
+            "areas": "福田区",
+            "name": "深南大道彩田立交东行",
+            "gpsx": 114.074506,
+            "gpsy": 22.545757,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfb9"
+        },
+        {
+            "areas": "福田区",
+            "name": "深南大道广深高速桥东行",
+            "gpsx": 114.023183,
+            "gpsy": 22.540712,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfba"
+        },
+        {
+            "areas": "福田区",
+            "name": "深南大道皇岗立交北行跨线桥西行",
+            "gpsx": 114.080595,
+            "gpsy": 22.545837,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfbb"
+        },
+        {
+            "areas": "福田区",
+            "name": "深南大道皇岗立交东侧西行",
+            "gpsx": 114.079122,
+            "gpsy": 22.546204,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfbc"
+        },
+        {
+            "areas": "福田区",
+            "name": "深南大道新洲立交东行",
+            "gpsx": 114.056,
+            "gpsy": 22.545375,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfbd"
+        },
+        {
+            "areas": "福田区",
+            "name": "深南香梅路口西方向",
+            "gpsx": 114.047198,
+            "gpsy": 22.544705,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfbe"
+        },
+        {
+            "areas": "福田区",
+            "name": "深南中路中航人行天桥东行",
+            "gpsx": 114.089926,
+            "gpsy": 22.54633,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfbf"
+        },
+        {
+            "areas": "福田区",
+            "name": "笋岗东路圆岭人行天桥东行",
+            "gpsx": 114.113465,
+            "gpsy": 22.562246,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfc0"
+        },
+        {
+            "areas": "福田区",
+            "name": "笋岗路园岭人行天桥东行",
+            "gpsx": 114.105889,
+            "gpsy": 22.562086,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfc1"
+        },
+        {
+            "areas": "福田区",
+            "name": "笋岗西路笔架山公园人行天桥西行",
+            "gpsx": 114.082795,
+            "gpsy": 22.561331,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfc2"
+        },
+        {
+            "areas": "福田区",
+            "name": "笋岗西路莲花立交东行",
+            "gpsx": 114.074144,
+            "gpsy": 22.561506,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfc3"
+        },
+        {
+            "areas": "福田区",
+            "name": "香蜜湖路市委党校路段北行",
+            "gpsx": 114.030786,
+            "gpsy": 22.553371,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfc4"
+        },
+        {
+            "areas": "福田区",
+            "name": "新洲路福新立交北行",
+            "gpsx": 114.056087,
+            "gpsy": 22.537793,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfc5"
+        },
+        {
+            "areas": "福田区",
+            "name": "裕亨路福田口岸联检大楼东行",
+            "gpsx": 114.075366,
+            "gpsy": 22.521939,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfc6"
+        },
+        {
+            "areas": "福田区",
+            "name": "裕亨路海悦华城北侧西行",
+            "gpsx": 114.076732,
+            "gpsy": 22.522027,
+            "level": 1,
+            "direction": "全部",
+            "_id": "58bf629e426f42c26ffcbfc7"
+        }
+    ]
+}
