@@ -1,4 +1,4 @@
 {
-  "ver":"7",
-  "url":"https://raw.githubusercontent.com/spzhong/szwaidpai/master/version/7.txt"
+  "ver":"8",
+  "url":"https://raw.githubusercontent.com/spzhong/szwaidpai/master/version/8.txt"
 }
